@@ -1,0 +1,4 @@
+Book store
+
+1. Create a project for Android & iOS - npm install -g expo-cli ( No longer need for this machine ) - nvm use v16.16.0 - expo init projectName —yarn - cd projectName - yarn  install  1.1. For web - yarn   add    react-native-web@~0.18.9      react-dom@18.1.0      @expo/webpack-config@^0.17.2 
+2. Start Project - nvm use v16.16.0 - yarn web
